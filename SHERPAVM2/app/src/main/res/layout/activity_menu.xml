@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/purple_500"
+    android:backgroundTint="@color/purple_500"
+    tools:context=".Procesos.Menu">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="409dp"
+        android:layout_height="84dp"
+
+
+        android:layout_alignParentStart="true"
+
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="11dp"
+        android:layout_marginEnd="-7dp"
+
+        android:foreground="@mipmap/logo"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.054" />
+
+    <TextView
+        android:id="@+id/lineauser"
+        android:layout_width="wrap_content"
+        android:layout_height="51dp"
+        android:layout_below="@+id/imageView3"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="247dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginEnd="10dp"
+        android:hint="Usuario:"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/codigosadmin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="103dp"
+        android:layout_marginTop="439dp"
+        android:layout_marginEnd="81dp"
+        android:backgroundTint="@color/teal_700"
+        android:onClick="iradmincodigos"
+        android:text="Administracion Codigos"
+        android:textSize="20sp"></Button>
+
+    <Button
+        android:id="@+id/codigosadmin2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="97dp"
+        android:layout_marginTop="104dp"
+        android:layout_marginEnd="87dp"
+        android:backgroundTint="@color/teal_700"
+        android:onClick="iradministracioncodigos"
+        android:text="Administracion Codigos"
+        android:textSize="20sp"></Button>
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="203dp"
+        android:layout_height="69dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="106dp"
+        android:layout_marginTop="180dp"
+        android:layout_marginEnd="102dp"
+        android:backgroundTint="@color/teal_700"
+        android:onClick="irqrlector"
+        android:text="Lector QR"
+        android:textSize="20sp"></Button>
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="171dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="128dp"
+        android:layout_marginTop="542dp"
+        android:layout_marginEnd="112dp"
+        android:backgroundTint="@color/zxing_possible_result_points"
+        android:onClick="irsalir"
+        android:text="Cerrar Sesion"
+        android:textSize="14sp"></Button>
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="74dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="108dp"
+        android:layout_marginTop="261dp"
+        android:layout_marginEnd="100dp"
+        android:backgroundTint="@color/teal_700"
+        android:onClick="irqrgenerador"
+        android:text="QR Generador"
+        android:textSize="20sp"></Button>
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="74dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="60dp"
+        android:layout_marginTop="350dp"
+        android:layout_marginEnd="49dp"
+        android:backgroundTint="@color/teal_700"
+        android:onClick="iradministrador"
+        android:text="Administrar Usuarios"
+        android:textSize="20sp"></Button>
+
+
+</RelativeLayout>

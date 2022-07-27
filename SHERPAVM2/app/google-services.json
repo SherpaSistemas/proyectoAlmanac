@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138799526843",
+    "project_id": "sherpa-vm",
+    "storage_bucket": "sherpa-vm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138799526843:android:ac663776342f5bb1b14a9e",
+        "android_client_info": {
+          "package_name": "com.example.sherpa_vm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138799526843-rv7sq57fgpoadamtb35nqc6b9ccrp6r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWDVrQksMFtz0KaQlTUwLsAc_gtgfTxtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138799526843-rv7sq57fgpoadamtb35nqc6b9ccrp6r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

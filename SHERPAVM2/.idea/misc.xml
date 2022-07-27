@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TODOS_LOS_PROGRAMAS/Android/SHERPA/SHERPAVM2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2415" />
+        <entry key="..\:/TODOS_LOS_PROGRAMAS/Android/SHERPA/SHERPAVM2/app/src/main/res/drawable/icon_actualizar.xml" value="0.2415" />
+        <entry key="..\:/Users/Mil/AndroidStudioProjects/SHERPAVM2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Mil/AndroidStudioProjects/SHERPAVM2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Mil/AndroidStudioProjects/SHERPAVM2/app/src/main/res/drawable/icon_add.xml" value="0.1" />
+        <entry key="..\:/Users/Mil/AndroidStudioProjects/SHERPAVM2/app/src/main/res/layout/Login.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Mil/AndroidStudioProjects/SHERPAVM2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Mil/AndroidStudioProjects/SHERPAVM2/app/src/main/res/menu/menu_main.xml" value="0.536" />
+        <entry key="..\:/Users/Mil/Desktop/SHERPAVM2/app/src/main/res/layout/activity_administrador.xml" value="0.2" />
+        <entry key="..\:/Users/Mil/Desktop/SHERPAVM2/app/src/main/res/layout/activity_administradorcodigos.xml" value="0.264" />
+        <entry key="..\:/Users/Mil/Desktop/SHERPAVM2/app/src/main/res/layout/activity_buscar.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Mil/Desktop/SHERPAVM2/app/src/main/res/layout/activity_generador_qr.xml" value="0.2" />
+        <entry key="..\:/Users/Mil/Desktop/SHERPAVM2/app/src/main/res/layout/activity_lector_qr.xml" value="0.176" />
+        <entry key="..\:/Users/Mil/Desktop/SHERPAVM2/app/src/main/res/layout/activity_lectorqr.xml" value="0.264" />
+        <entry key="..\:/Users/Mil/Desktop/SHERPAVM2/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/Mil/Desktop/SHERPAVM2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Mil/Desktop/SHERPAVM2/app/src/main/res/layout/activity_menu.xml" value="0.264" />
+        <entry key="..\:/Users/Mil/Desktop/SHERPAVM2/app/src/main/res/layout/activity_prb.xml" value="0.1125" />
+        <entry key="..\:/Users/Mil/Desktop/SHERPAVM2/app/src/main/res/layout/activity_qrlector.xml" value="0.264" />
+        <entry key="..\:/Users/Mil/Desktop/SHERPAVM2/app/src/main/res/menu/menu_main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
